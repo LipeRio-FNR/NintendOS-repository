@@ -7,5 +7,7 @@ NintendOS is a Windows _simulator_ that includes many programs including games a
 
 
 NintendOS Review Form:
+
 https://forms.gle/tjsHGZY3hy5RKW1u5
+
 Please, if you use any builds, report your experience on the link above!
