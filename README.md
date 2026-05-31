@@ -1,4 +1,4 @@
-# NintendOS-repository
+# the NintendOS Project
 ### Repository for the NintendOS Project.
 <img width="1024" height="256" alt="Github Header" src="https://github.com/user-attachments/assets/f64af1c6-ed98-4cc0-bac1-8f9a05a5a0d9" />
 
