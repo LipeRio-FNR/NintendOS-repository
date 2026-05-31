@@ -6,12 +6,9 @@
 NintendOS is a Windows _simulator_ that includes many programs including games and multimedia, it is a spiritual successor to the famous WintenDoS xp Project but with more faithful simulation and more features!
 
 # NintendOS Development Milestone Track
-.
-            NintendOS 4.0                            NintendOS 5.0           NintendOS 6.0
-2026 ====== final release ========== 2027 ========== Coming soon! =========== maybe 2028?
-           currently on M1                        feb 2027 release(?)            2028
 
-           
+[5/30/2026] NintendOS 4 has now reached Milestone 1!
+
 ### Update Callendar
 here is the planned events for developemnt and updates!
 [ ](start of June 2026) final major NintendOS 95 update, just a final end of development
