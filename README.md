@@ -28,10 +28,10 @@ here is the planned events for developemnt and updates!
 
 NintendOS 4.0 (placeholder name, codename bedrock) is now on full track development! i'm starting NintendOS 5, probably the first that will not use the classic windows flag and (probably) the most resource-hungry of all versions! the Open-Source 4.0 framework will be coming when NintendOS 4 gets released
 
-by the way, the art style and (some) assets for NintendOS 5 are already made! aero!
+### by the way, the art style and (some) assets for NintendOS 5 are already made! aero!
 
 # NintendOS Reviews and Bugfixes
-besides usinf the Issues tab in here, you can use the Review and Bug Report form
+besides using the Issues tab in here, you can use the Review and Bug Report form
 
 ### Review and Bug Report form
 https://forms.gle/tjsHGZY3hy5RKW1u5
