@@ -30,7 +30,7 @@ NintendOS 4.0 (placeholder name, codename bedrock) is now on full track developm
 
 ### by the way, the art style and (some) assets for NintendOS 5 are already made! aero!
 
-# NintendOS Reviews and Bugfixes
+# NintendOS Reviews and Bug Reports
 besides using the Issues tab in here, you can use the Review and Bug Report form
 
 ### Review and Bug Report form
